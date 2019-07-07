@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is a bot that helps people get familiar with GitHub
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It automatically creates repositories, submits issus and pull requests and so on.
 
 ## Getting started
 
